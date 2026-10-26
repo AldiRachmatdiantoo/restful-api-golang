@@ -1,4 +1,4 @@
-module github.com/AldiRachmatdiantoo/restful-api-golang
+module belajar-golang
 
 go 1.27.3
 
